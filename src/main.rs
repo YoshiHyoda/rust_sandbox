@@ -1,5 +1,5 @@
-mod types;
+mod vars;
 
 fn main() {
-    types::run();
+    vars::run()
 }
