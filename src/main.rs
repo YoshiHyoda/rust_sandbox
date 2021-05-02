@@ -1,5 +1,5 @@
-mod vars;
+mod strings;
 
 fn main() {
-    vars::run()
+    strings::run()
 }
