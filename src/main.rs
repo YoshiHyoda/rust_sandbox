@@ -1,5 +1,5 @@
-mod strings;
+mod arrays;
 
 fn main() {
-    strings::run()
+    arrays::run()
 }
